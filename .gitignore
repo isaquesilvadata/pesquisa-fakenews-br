@@ -1,7 +1,8 @@
-# Ignora os dados locais e arquivos CSV pesados
-dados/
-*.csv
-*.zip
+venv/
+.env/
+__pycache__/
+*.pyc
+.vscode/
 
 # Ambientes virtuais e caches
 venv/
