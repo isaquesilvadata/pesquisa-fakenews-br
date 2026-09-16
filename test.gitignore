@@ -1,0 +1,13 @@
+# Ignora os dados locais e arquivos CSV pesados
+dados/
+*.csv
+*.zip
+
+# Ambientes virtuais e caches
+venv/
+.env/
+__pycache__/
+*.pyc
+
+# Configurações do editor
+.vscode/
